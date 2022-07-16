@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Walter Rodriguez/Downloads/Capturar_Foto-main/app/src/main/res/layout/activity_agregar_registro.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/elvis/Downloads/Captura_IMG/app/src/main/res/layout/activity_agregar_registro.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/elvis/Downloads/Captura_IMG/app/src/main/res/layout/activity_detalle_ractivity.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/elvis/Downloads/Captura_IMG/app/src/main/res/layout/activity_detalle_registro.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/elvis/Downloads/Captura_IMG/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/elvis/Downloads/Captura_IMG/app/src/main/res/layout/row_record.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/elvis/Downloads/Captura_IMG/app/src/main/res/menu/menu_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/elvis/Downloads/Captura_IMG/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/elvis/Downloads/ProyectSQLite/app/src/main/res/drawable/shape_rectangle.xml" value="0.1" />
+        <entry key="..\:/Users/elvis/Downloads/ProyectSQLite/app/src/main/res/layout/activity_agregar_registro.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/elvis/Downloads/ProyectSQLite/app/src/main/res/layout/activity_capturar_img.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/elvis/Downloads/ProyectSQLite/app/src/main/res/layout/activity_detalle_registro.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/elvis/Downloads/ProyectSQLite/app/src/main/res/layout/activity_main.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/elvis/Downloads/ProyectSQLite/app/src/main/res/layout/row_record.xml" value="0.22554347826086957" />
+        <entry key="..\:/Users/elvis/Downloads/ProyectSQLite/app/src/main/res/menu/menu_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/elvis/Downloads/ProyectSQLite/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/elvis/Downloads/ProyectSQLite/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
